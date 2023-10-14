@@ -1,2 +1,2 @@
 fn main():
-    print("hello worls")
+    print("hello world")
